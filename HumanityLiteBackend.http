@@ -1,0 +1,6 @@
+@HumanityLiteBackend_HostAddress = http://localhost:5250
+
+GET {{HumanityLiteBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
